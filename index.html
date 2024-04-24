@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Genie Machine</title>
+    <link rel="stylesheet" type="text/css" href="reset.css" />
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+</head>
+<body>
+    <div class="content">
+        <div>
+            <img id="img-fortune-teller" src="images/fortune-teller.png" alt="fortune teller">
+        </div>
+        <div class="card">
+          <h2>Do you dare to tempt your fate?
+            Flip the card below.
+          </h2>
+    
+        </div>
+    </div>
+    <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <img src="images/img_avatar.png" onmouseover=displayQuote() alt="Avatar" style="width:300px;height:300px;">
+          </div>
+          <div class="flip-card-back">
+            <div id="quote"></div>
+          </div>
+        </div>
+      </div>
+</body>
+<script src="script.js"></script>
+</html>
