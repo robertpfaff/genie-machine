@@ -1,0 +1,95 @@
+{
+  "tarot": [
+{
+"id": "emperor_id",
+"name": "Emperor",
+"image": "emperor.png",
+"desc": "This card symbolizes leadership, power, and authority. It's the fourth card in the Major Arcana, a set of important cards in tarot readings. The Emperor often represents a mature figure seated on a throne or a soldier holding a shield and sword. This card signifies responsibility, courage, and intelligence."
+},
+{
+"id": "empress_id",
+"name": "Empress",
+"image": "empress.png",
+"desc": "The Empress is a mother, a creator, and nurturer. In many decks she can be shown as pregnant. She can represent the creation of life, romance, art, or business. The Empress can represent the germination of an idea before it is ready to be fully born, and the need to be receptive to change."
+},
+{
+"id": "fool_id",
+"name": "Fool",
+"image": "fool.png",
+"desc": "The Fool card holds the distinction of being the first card in the Tarot deck. It symbolizes the embrace of new beginnings, the expansion of one's horizons, and the willingness to take risks guided by intuition. In simpler terms, it encourages you to listen to your inner feelings and take a leap of faith."
+},
+{
+"id": "hierophant_id",
+"name": "Hierophant",
+"image": "hierophant.png",
+"desc": "Religion and Belief: This card is all about being super into your beliefs and religion. Commitment and Traditional Values: You're the kind of person who sticks to the old-school way of doing things. Knowledge Sharing and Education: Sharing what you know with others is a big deal."
+},
+{
+"id": "justice_id",
+"name": "Justice",
+"image": "justice.png",
+"desc": "The Justice tarot card is all about being fair and treating everyone just right. Imagine a judge in a courtroom making sure things are fair and true. When this card appears, it's like having your actions put on a scale. If you've been good and fair, good things will come your way."
+},
+{
+"id": "lovers_id",
+"name": "Lovers",
+"image": "lovers.png",
+"desc": "The Lovers card is the seventh Major Arcana card in the tarot deck. It's all about love, deep connections, and attraction. This card embodies the idea of unconditional love and the concept."
+},
+{
+"id": "magician_id",
+"name": "Magician",
+"image": "magician.png",
+"desc": "In simple words, the Magician card is like a magic wand in tarot. It can mean making your dreams come true, healing in your life, thinking about spiritual things, and feeling a connection to something special. In love, it's about turning your romantic wishes into reality."
+},
+{
+"id": "moon_id",
+"name": "Moon",
+"image": "moon.png",
+"desc": "The Moon Card symbolizes the hidden, emotional layers of the mind. It invites exploration of dreams and intuition. The Moon tarot card has always been surrounded by an air of mystery and intrigue."
+},
+{
+"id": "priest_id", 
+"name": "Priest", 
+"image": "priest.png",
+"desc": "The High Priestess tarot card embodies the sacred feminine, a gateway to intuition, the subconscious mind, and the divine feminine energy. As the second Trump or Major Arcana card of the tarot deck, it represents the mysteries of spiritual awakening, inner light, sacred insight, and ancient sagacity, often hidden from the conscious mind. When the High Priestess appears, it is a call to awaken your inner wisdom and heed the power of your intuition, rather than relying solely on the rational mind. In a health context, the High Priest encourages you to listen to the whispers your body is conveying to your world."
+},
+{
+"id": "star_id",
+"name": "Star",
+"image": "star.png",
+"desc": "It signifies a renewal of spirit, bringing forth calmness, serenity, and an optimistic outlook for the future. This card represents a strong connection to one's spirituality and the potential for emotional and physical healing. It's a symbol of radiant, positive energy."
+},
+{
+"id": "strength_id",
+"name": "Strength",
+"image": "strength.png",
+"desc": "Power, energy, action, courage, magnanimity; also complete success and honours. Reversed: Despotism, abuse of power, weakness, discord, sometimes even disgrace. In Astrology, the Strength card is associated with the masculine, fixed-fire sign of Leo and its ruling planetary body, the Sun."
+},
+{
+"id": "sun_id",
+"name": "Sun",
+"image": "sun.png",
+"desc": "This card is generally considered positive. It is said to reflect happiness and contentment, vitality, self-confidence and success. Sometimes referred to as the best card in tarot, it represents good things and positive outcomes to current struggles."
+},
+{
+"id": "temperance_id",
+"name": "Temperance",
+"image": "temperance.png",
+"desc": "This card, part of the Major Arcana, signifies harmony, peace, patience, and moderation. It suggests that you've found inner peace and have a clear understanding of your life."
+},
+{
+"id": "tower_id",
+"name": "Tower",
+"image": "tower.png",
+"desc": "The Tower is widely associated to danger, crisis, sudden change, destruction, higher learning, and liberation. In the Rider–Waite deck, the top of The Tower is a crown, which symbolizes materialistic thought being bought cheap, downcast. The Tower is associated with the planet Mars."
+},
+{
+"id": "world_id",
+"name": "World",
+"image": "world.png",
+"desc": "Assured success, recompense, voyage, route, emigration, flight, change of place. Reversed: Inertia, fixity, stagnation, permanence. The World represents an ending to a cycle of life, a pause in life before the next big cycle beginning with the fool."
+}
+
+    ]
+}
