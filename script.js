@@ -25,13 +25,13 @@ const postData = (data) => {
     let fortune = data[tarot_index].desc
     console.log("Fortune")
     console.log(fortune)
-    document.getElementById('flip-card-id').src = `"images/${selected_image}">`
-    document.getElementById("fortune").textContent = fortune
+    document.getElementById('flip-card-id').src = `images/${selected_image}`
+    document.getElementById("fortune").textContent = fortune;
 }
 
-getTarotImages();
+const scroll = document.getElementById("scrollLink")
 
-function clearResult(){
-    document.getElementById('flip-card-id').src = ''
-    document.getElementById("fortune").textContent = ''
-  }
+function scrollTime(){
+    const scroll = document.getElementById("scrollLink")
+    scroll.scrollIntoView({ behavior: "smooth"});
+}
