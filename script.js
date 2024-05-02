@@ -31,7 +31,15 @@ const postData = (data) => {
 
 const scroll = document.getElementById("scrollLink")
 
-function scrollTime(){
+function rollScroll(){
     const scroll = document.getElementById("scrollLink")
     scroll.scrollIntoView({ behavior: "smooth"});
+    
+const delay = ms => new Promise(res => setTimeout(delayFlip(), 10000));
+
+const delayFlip = async () => {
+    await delay(5000);
+    console.log("Waited 5s");
 }
+}
+
