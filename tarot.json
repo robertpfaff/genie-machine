@@ -22,7 +22,7 @@
 "id": "hierophant_id",
 "name": "Hierophant",
 "image": "hierophant.png",
-"desc": "This card represents religion and belief. Perhaps you recently converted? Perhaps you're a natural teacher. Or you've started to question dogma is all its forms, whether religious, political or economic. You've discovered the world is not black and white. It's more complicated than you believ, and you're grappling with the person who has challenged those beliefs. Stand strong in moral affais, which only means being fair to others. This card is all about being super into your moral values, without becoming a fanatic. You're strengths lie in a solid committment and loyalty. You don't back down when someone questions your morality in whatever form. You're the kind of person who sticks to the old-school way of doing things. That needs to change. Knowledge Sharing and Education: Sharing what you know with others is a big deal."
+"desc": "This card represents religion and belief. You've discovered the world is not black and white. It's more complicated than you believ, and you're grappling with the person who has challenged those beliefs. Stand strong in moral affais, which only means being fair to others. This card is all about being super into your moral values, without becoming a fanatic. You're strengths lie in a solid committment and loyalty. You don't back down when someone questions your morality in whatever form. You're the kind of person who sticks to the old-school way of doing things. That needs to change. Knowledge Sharing and Education: Sharing what you know with others is a big deal."
 },
 {
 "id": "justice_id",
@@ -50,9 +50,9 @@
 },
 {
 "id": "priest_id", 
-"name": "Priest", 
+"name": "High Priestess", 
 "image": "priest.png",
-"desc": "Real strength comes from within and you must keep moving forward. Do not surrender to doubt and fear. The High Priestess tarot card embodies the sacred feminine, the Feminine Divine, and a gateway to intuition, the subconscious mind, and the divine feminine energy. Don't fear your feelings. Feelings are not facts. They come and go. As the second Major Arcana card of the tarot deck, it represents the mysteries of spiritual awakening, inner light, sacred insight, and ancient sagacity, often hidden from the conscious mind. When the High Priestess appears, it is a call to awaken your inner wisdom and heed the power of your intuition, rather than relying solely on the rational mind. In a health context, the High Priest encourages you to listen to the whispers your body is conveying to your world."
+"desc": "The modern interpretation of the High Priestess represents the unknown, mystery, intuition, spiritual knowledge, and the subconscious mind. She is an esoteric figure, unlike The Hierophant. Reversed, the High Priestess can be interpreted as secrecy and disconnection from your intuition."
 },
 {
 "id": "star_id",
