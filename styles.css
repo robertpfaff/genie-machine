@@ -8,7 +8,7 @@
   box-sizing: border-box;
   background-color: #6699cc;
   font-family: "Poppins", sans-serif;
-  font-size: 18px;
+  font-size: 1.05rem;
   justify-content: center;
   align-items: center;
 }
@@ -20,6 +20,8 @@ html, body {
 
 .container {
   background-color: #6699cc;
+  max-width: fit-content;
+  max-height: fit-content;
 }
 
 .row {
@@ -28,6 +30,9 @@ html, body {
   justify-content: center;
   align-items: center;
   text-align: center;
+
+  max-width: fit-content;
+  max-height: fit-content;
 }
 
 .col {
@@ -45,7 +50,7 @@ h3 {
 }
 
 article {
-  width: 400px;
+  width: 400vh;
 }
 
 ol {
@@ -58,8 +63,8 @@ ol {
 ol li {
   justify-content: start;
   position: relative;
-  padding-left: 60px;
-  min-height: 60px;
+  padding-left: 4rem;
+  min-height: 4rem;
 }
 
 ol li .active {
@@ -83,10 +88,10 @@ counter-increment: li;
 color: #fff;
 background: #f07100;
 border-radius: 50%;
-font-size: 18px;
-width: 48px;
-height: 48px;
-line-height: 48px;
+font-size: 1rem;
+width: 3.2rem;
+height: 3.2rem;
+line-height: 3;
 text-align: center;
 display: block;
 position: absolute;
@@ -94,32 +99,19 @@ top: 0;
 left: 0;
 }
 
-.button-div {
-  max-width: 800px;
-  justify-content: center;
-  align-items: center;
-  padding: 10px;
-  margin: 10px;
-}
-
-#button {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-card {
   background-color: #6699cc;
-  width: 600px;
-  height: 600px;
-  perspective: 1000px; /* Remove this if you don't want the 3D effect */
+  width: 40rem;
+  height: 36rem;
+  perspective: 50rem; /* Remove this if you don't want the 3D effect */
 
 }
 
 #flip-card-id {
   background-color: #6699cc;
-  width: 600px;
-  height: 600px;
+  width: 40rem;
+  height: 36rem;
 }
 
 #fortune {
