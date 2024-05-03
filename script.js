@@ -25,16 +25,14 @@ const postData = (data) => {
     let fortune = data[tarot_index].desc
     console.log("Fortune")
     console.log(fortune)
+    
     document.getElementById('flip-card-id').src = `images/${selected_image}`
     document.getElementById("fortune").textContent = fortune;
 }
-
 
 const scroll = document.getElementById("scrollLink")
 
 function rollScroll(){
     const scroll = document.getElementById("scrollLink")
     scroll.scrollIntoView({ behavior: "smooth"});
-
 }
-
