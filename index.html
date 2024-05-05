@@ -10,11 +10,14 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
   </head>
   <body>
+    <!-- start of container -->
     <div class="container">
       <div class="row row-cols-1">
+         <!-- image fortune teller div -->
         <div class="col d-flex" id="img-fortune-teller">
           <img src="images/fortune-teller.png" alt="fortune teller"></div>
           <div>
+             <!-- article start of instructions and links -->
             <article>
               <h5>Do you dare tempt fate?</h5>
               <ol>
@@ -24,6 +27,7 @@
                 <li><a href="javascript:void(0);" class="active" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample"> Click to Collapse or Reset </a></li>
               </ol>
             </article>
+             <!-- article end of instructions and links -->
           </div>
           <div class="collapse" id="collapseExample">
           <!-- start of flip card -->
@@ -32,6 +36,7 @@
               <div class="flip-card-front" id="selectedCard">
                 <img id="flip-card-id">
               </div>
+               <!-- div holding card and meaning -->
               <div class="flip-card-back" id="fortune"></div>
             </div>
           </div> 
