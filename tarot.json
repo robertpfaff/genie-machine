@@ -22,7 +22,7 @@
 "id": "hierophant_id",
 "name": "Hierophant",
 "image": "hierophant.png",
-"desc": "This card represents religion and belief. You've discovered the world is not black and white. It's more complicated than you believ, and you're grappling with the person who has challenged those beliefs. Stand strong in moral affais, which only means being fair to others. This card is all about being super into your moral values, without becoming a fanatic. You're strengths lie in a solid committment and loyalty. You don't back down when someone questions your morality in whatever form. You're the kind of person who sticks to the old-school way of doing things. That needs to change. Knowledge Sharing and Education: Sharing what you know with others is a big deal."
+"desc": "You've discovered the world is not black and white, and you're grappling with moral issues. Time to stand strong in your convictions. This card is about growing in your moral values, keeping an open mind. You're strengths lie in committment and loyalty. You don't back down when someone questions your morality in whatever form. You're the kind of person who sticks to the old-school way of doing things. That needs to change."
 },
 {
 "id": "justice_id",
@@ -58,7 +58,7 @@
 "id": "star_id",
 "name": "Star",
 "image": "star.png",
-"desc": "The Star card signifies a renewal of spirit, bringing forth calmness, serenity, and an optimistic outlook. This card represents a strong connection to one's spirituality and the potential for emotional and physical healing. Meditation or yoga would serve you now. It's a symbol of radiant, positive energy and quiet joy."
+"desc": "The Star card signifies a renewal of spirit, bringing forth calmness, serenity, and an optimistic outlook for the future. This card represents a strong connection to one's spirituality and the potential for emotional and physical healing. Meditation or yoga would serve you now. It's a symbol of radiant, positive energy and quiet joy."
 },
 {
 "id": "strength_id",
